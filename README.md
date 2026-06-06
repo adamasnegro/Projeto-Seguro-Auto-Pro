@@ -137,7 +137,7 @@ Este projeto reforçou conceitos importantes como:
 
 ## 👨‍💻 Autor
 
-**[Cristiano Bonifácio]**
+**Cristiano Bonifácio**
 
 Profissional em transição de carreira do mercado de seguros para desenvolvimento de software.
 
