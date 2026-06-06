@@ -133,6 +133,14 @@ Este projeto reforçou conceitos importantes como:
 - Git e GitHub
 - Desenvolvimento orientado a produto
 
+## 🔧 Como Executar
+
+1. Clone o repositório:
+
+git clone https://github.com/adamasnegro/Projeto-Seguro-Auto-Pro
+
+2. Abra o arquivo `index.html` em seu navegador.
+
 ---
 
 ## 👨‍💻 Autor
