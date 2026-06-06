@@ -137,7 +137,7 @@ Este projeto reforçou conceitos importantes como:
 
 ## 👨‍💻 Autor
 
-**[Seu Nome]**
+**[Cristiano Bonifácio]**
 
 Profissional em transição de carreira do mercado de seguros para desenvolvimento de software.
 
@@ -145,7 +145,7 @@ Buscando unir experiência de negócios, atendimento ao cliente e tecnologia par
 
 ### Conecte-se comigo
 
-- GitHub: github.com/seu-usuario
+- GitHub: https://github.com/adamasnegro
 
 ---
 
